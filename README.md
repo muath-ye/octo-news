@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+<p align="center">
+  <img src="Screenshot_20220114-144635" alt="flutter httpclient REST API" title="Screenshot">
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
