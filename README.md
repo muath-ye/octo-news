@@ -2,6 +2,10 @@
 
 This is a Flutter BLoC pattern example using built-in features of StreamController to consume https://newsapi.org/ APIs.
 
+
+> Get new api key from https://newsapi.org/ and Add YOUR_API_KEY to ```constances/url.dart```
+
+
 <p align="center">
   <img src="Screenshot_20220114-144635.jpg" alt="flutter httpclient REST API" title="Screenshot">
 </p>
