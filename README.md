@@ -3,7 +3,7 @@
 A new Flutter project.
 
 <p align="center">
-  <img src="Screenshot_20220114-144635.png" alt="flutter httpclient REST API" title="Screenshot">
+  <img src="Screenshot_20220114-144635.jpg" alt="flutter httpclient REST API" title="Screenshot">
 </p>
 
 ## Getting Started
