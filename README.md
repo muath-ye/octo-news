@@ -1,6 +1,6 @@
-# news
+# Octo News
 
-A new Flutter project.
+This is a Flutter BLoC pattern example using built-in features of StreamController to consume https://newsapi.org/ APIs.
 
 <p align="center">
   <img src="Screenshot_20220114-144635.jpg" alt="flutter httpclient REST API" title="Screenshot">
